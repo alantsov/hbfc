@@ -1,0 +1,2 @@
+#!/bin/bash
+ghc --make -odir out -hidir out -o hbfc *.hs
